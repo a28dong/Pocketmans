@@ -1,5 +1,7 @@
 # Pocketmans
-A Pokemon knockoff for a computer science project completed in a group of 3.
+**High School Computer Science Project**
+
+A Pokemon knockoff completed in a group of 3.
 
 Uses Ready to Program Java HSA console.
 ___
